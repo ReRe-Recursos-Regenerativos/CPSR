@@ -7,12 +7,12 @@ Common Pool of Shareable Resources
 <img src="https://github.com/ReRe-Recursos-Regenerativos/CPoSR/blob/main/images/CPoSR.png" width="300px">
 
 
-## MVP
-Criação do db
-Conexão com Blockchain
-Cadastro
-Cadastro de Recursos
-Busca de Recursos
+## Dapp
+[]Criação do db
+[]Conexão com Blockchain
+[]Cadastro
+[]Cadastro de Recursos
+[]Busca de Recursos
 
 ## LINKS
 - [Landing Page](https://rereabundance.mobirisesite.com/)
