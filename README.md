@@ -31,6 +31,8 @@ ReRe is no longer just a "hyperobject", it has evolved as a "Regenerative Web3 C
 
 Therefore, we operate with active learning of deep regeneration applied to the ethos of Web3/dWeb, with debates and practices that rethink the traditional organizational paradigm (top-down, concentrated, linear, static, and based on scarcity logic) common in the Web2 environment, thus proposing new ways of making it complex, distributed, glocal, interactive, and collaborative - resonant with Web3 technologies and all their disruptive potential from the abundance perspective. We redistribute resources through "Common Pools" to the various projects that collaborate with this regenerative cultural protocol in a networked manner.
 
+
+## ReRe Ontolgy
 <img src="https://github.com/ReRe-Recursos-Regenerativos/CPoSR/blob/main/images/ReReOntology.PNG" width="600px">
 
 We do not crystallize a closed definition of what ReRe is because as a living and dynamic project created in a network, sustained even by the paradigm of complexity and interactivity, we are in a permanent process of evolution and resignification...
