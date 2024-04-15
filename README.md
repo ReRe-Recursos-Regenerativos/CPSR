@@ -8,11 +8,11 @@ Common Pool of Shareable Resources
 
 
 ## Dapp
-[]Criação do db
-[]Conexão com Blockchain
-[]Cadastro
-[]Cadastro de Recursos
-[]Busca de Recursos
+- [ ] Criação do db
+- [ ] Conexão com Blockchain
+- [ ] Cadastro
+- [ ] Cadastro de Recursos
+- [ ] Busca de Recursos
 
 ## LINKS
 - [Landing Page](https://rereabundance.mobirisesite.com/)
